@@ -159,30 +159,66 @@
     <section>
       <h2>Projects</h2>
       <div class="project">
-        <div class="project-title">AI-Enhanced AMI System for Nigeria’s Power Grid</div>
+        <div class="project-title">Design, Construction, and Implementation of AMI (Advanced Metering Infrastructure) connected to the Power Distribution Network in Nigeria</div>
         <p>Developed a smart Advanced Metering Infrastructure (AMI) framework with predictive analytics and IoT security for real-time energy monitoring in Nigeria.</p>
       </div>
       <div class="project">
         <div class="project-title">Small-Signal Stability Analysis on IEEE 39-Bus System</div>
-        <p>Modeled and simulated power system dynamics using MATLAB, PowerWorld, and PSS/E with inverter-based resources for enhanced grid reliability.</p>
-      </div>
-      <div class="project">
-        <div class="project-title">Blockchain-Backed Renewable Energy Trading Platform</div>
-        <p>Led the design of a decentralized trading platform integrating solar microgrids using blockchain and smart contracts.</p>
+        <p>Modeled and simulated power system dynamics using PSS/E with inverter-based resources for enhanced grid reliability.</p>
       </div>
     </section>
 
+    <!-- Publications Section -->
+    <section>
+      <h2>Publications</h2>
+
+      <div class="publication">
+        <div class="project-title">Design and Implementation of AMI for Real-Time IoT Energy Monitoring System in Nigeria Power Distribution Network</div>
+        <p>Proposed a smart, AI-enhanced Advanced Metering Infrastructure for Nigeria’s grid, integrating IoT security and predictive analytics for accurate monitoring and billing.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Comprehensive Exploration of Smart Cities</div>
+        <p>Analyzed smart city technologies and their applications in sustainable urban development, focusing on telecommunications infrastructure and policy recommendations.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Design and Simulation of a Security and Surveillance UAV</div>
+        <p>Engineered and simulated a UAV system for real-time surveillance, integrating onboard sensors, remote communication, and AI-powered threat detection capabilities.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Internet of Things (IoT) Weather Monitoring System</div>
+        <p>Developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment tracking.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Design and Construction of an Automatic Change Over Switch</div>
+        <p>Designed and built an electromechanical system to automatically switch between main power and generator supply, ensuring seamless power continuity for households and industries.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">A Review of IoT Device Security</div>
+        <p>Under review.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Enabling Collaborative Reinforcement Learning with Human Feedback</div>
+        <p>Researching methods for safer and more interactive robot-human learning environments using feedback integration.</p>
+      </div>
+       <section>
+       
     <!-- Skills Section -->
     <section>
       <h2>Skills</h2>
       <ul>
-        <li>Power Systems Modeling & Stability</li>
+        <li>Power Systems Modeling & Stability (Small-signal, Voltage, and Transient)</li>
         <li>Renewable Energy Systems</li>
-        <li>IoT & Smart Grid Security</li>
+        <li>Internet of Things (IoT), & Smart Grid Security</li>
         <li>Blockchain for Energy Trading</li>
-        <li>MATLAB, Simulink, PowerWorld, PSS/E</li>
-        <li>Python, C, Git, Linux</li>
-        <li>Data Analysis & Predictive Analytics</li>
+        <li>MATLAB, Simulink, PSS/E</li>
+        <li>Python, C++,Git</li>
+        <li>Data Analysis</li>
       </ul>
     </section>
 
@@ -191,7 +227,8 @@
       <h2>Contact</h2>
       <p>Email: adeleke.j.olaoluwa@gmail.com</p>
       <p>LinkedIn: <a href="https://www.linkedin.com/in/olaoluwaadeleke" target="_blank">olaoluwaadeleke</a></p>
-      <p>GitHub: <a href="https://github.com/olaoluwaadeleke" target="_blank">olaoluwaadeleke</a></p>
+      <p>GitHub: <a href="https://github.com/Olajesu-rebirth" target="_blank">Olajesu-rebirth</a></p>
+      <p>ResearchGate: <a href="https://www.researchgate.net/profile/Olaoluwa-Adeleke-3?ev=hdr_xprf" target="_blank">Olaoluwa Adeleke</a></p>
     </section>
   </main>
 
