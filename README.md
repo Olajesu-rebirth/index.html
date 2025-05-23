@@ -160,7 +160,7 @@
       <h2>Projects</h2>
       <div class="project">
         <div class="project-title">Design, Construction, and Implementation of AMI (Advanced Metering Infrastructure) connected to the Power Distribution Network in Nigeria</div>
-        <p>Developed a smart Advanced Metering Infrastructure (AMI) framework with predictive analytics and IoT security for real-time energy monitoring in Nigeria.</p>
+        <p>Developed a smart Advanced Metering Infrastructure (AMI) framework which can be used for predictive analytics and IoT security for real-time energy monitoring in Nigeria.</p>
       </div>
     </section>
 
@@ -170,7 +170,7 @@
 
       <div class="publication">
         <div class="project-title">Design and Implementation of AMI for Real-Time IoT Energy Monitoring System in Nigeria Power Distribution Network</div>
-        <p>Proposed a smart, AI-enhanced Advanced Metering Infrastructure for Nigeria’s grid, integrating IoT security and predictive analytics for accurate monitoring and billing.</p>
+        <p>Designed, implemented, and proposed a smart, Advanced Metering Infrastructure (AMI) for Nigeria’s grid, integrating IoT security which can be used for predictive analytics for accurate monitoring and billing.</p>
       </div>
 
       <div class="publication">
@@ -180,12 +180,12 @@
 
       <div class="publication">
         <div class="project-title">Design and Simulation of a Security and Surveillance UAV</div>
-        <p>Engineered and simulated a UAV system for real-time surveillance, integrating onboard sensors, remote communication, and AI-powered threat detection capabilities.</p>
+        <p>Worked with a team who engineered and simulated a UAV system for real-time surveillance, integrating onboard sensors, remote communication, and AI-powered threat detection capabilities.</p>
       </div>
 
       <div class="publication">
         <div class="project-title">Internet of Things (IoT) Weather Monitoring System</div>
-        <p>Developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment tracking.</p>
+        <p>Worked with a team who developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment tracking.</p>
       </div>
 
       <div class="publication">
