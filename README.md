@@ -170,7 +170,8 @@
 
       <div class="publication">
         <div class="project-title">Design and Implementation of AMI for Real-Time IoT Energy Monitoring System in Nigeria Power Distribution Network</div>
-        <p>Designed, implemented, and proposed a smart, Advanced Metering Infrastructure (AMI) for Nigeria’s grid, integrating IoT security which can be used for predictive analytics for accurate monitoring and billing.</p>
+        <p>Designed, implemented, and proposed a smart, Advanced Metering Infrastructure (AMI) for Nigeria’s grid, integrating IoT security which can be used for predictive analytics for accurate monitoring 
+          and billing.</p>
       </div>
 
       <div class="publication">
@@ -185,7 +186,8 @@
 
       <div class="publication">
         <div class="project-title">Internet of Things (IoT) Weather Monitoring System</div>
-        <p>Worked with a team who developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment tracking.</p>
+        <p>Worked with a team who developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment 
+           tracking.</p>
       </div>
 
       <div class="publication">
@@ -197,7 +199,7 @@
         <div class="project-title">Enabling Collaborative Reinforcement Learning with Human Feedback</div>
         <p>Researching methods for safer and more interactive robot-human learning environments using feedback integration.</p>
       </div>
-       <section>
+    <section>
        
     <!-- Skills Section -->
     <section>
