@@ -197,7 +197,7 @@
 
      <div class="publication">
         <div class="project-title">Enabling Collaborative Reinforcement Learning with Human Feedback</div>
-        <p>Researching methods for safer and more interactive robot-human learning environments using feedback integration.</p>
+        <p>Researched methods for safer and more interactive robot-human learning environments using feedback integration.</p>
       </div>
     </section>
        
