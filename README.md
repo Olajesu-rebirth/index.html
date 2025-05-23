@@ -162,10 +162,6 @@
         <div class="project-title">Design, Construction, and Implementation of AMI (Advanced Metering Infrastructure) connected to the Power Distribution Network in Nigeria</div>
         <p>Developed a smart Advanced Metering Infrastructure (AMI) framework with predictive analytics and IoT security for real-time energy monitoring in Nigeria.</p>
       </div>
-      <div class="project">
-        <div class="project-title">Small-Signal Stability Analysis on IEEE 39-Bus System</div>
-        <p>Modeled and simulated power system dynamics using PSS/E with inverter-based resources for enhanced grid reliability.</p>
-      </div>
     </section>
 
     <!-- Publications Section -->
@@ -197,12 +193,7 @@
         <p>Designed and built an electromechanical system to automatically switch between main power and generator supply, ensuring seamless power continuity for households and industries.</p>
       </div>
 
-      <div class="publication">
-        <div class="project-title">A Review of IoT Device Security</div>
-        <p>Under review.</p>
-      </div>
-
-      <div class="publication">
+     <div class="publication">
         <div class="project-title">Enabling Collaborative Reinforcement Learning with Human Feedback</div>
         <p>Researching methods for safer and more interactive robot-human learning environments using feedback integration.</p>
       </div>
