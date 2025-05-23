@@ -145,7 +145,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="icon">
         Connect on LinkedIn
       </a>
-      <a href="https://https://github.com/Olajesu-rebirth" target="_blank" class="social-btn github">
+      <a href="https://github.com/Olajesu-rebirth" target="_blank" class="social-btn github">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" class="icon">
         View GitHub
       </a>
