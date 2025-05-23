@@ -4,9 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Olaoluwa John Adeleke - Portfolio</title>
-  <meta name="description" content="Olaoluwa John Adeleke's portfolio showcasing projects in power systems, renewable energy, and smart grid technologies.">
-  <meta name="author" content="Olaoluwa John Adeleke">
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -132,6 +129,46 @@
       <div class="project">
         <div class="project-title">Blockchain-Backed Renewable Energy Trading Platform</div>
         <p>Led the design of a decentralized trading platform integrating solar microgrids using blockchain and smart contracts.</p>
+      </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section>
+      <h2>Publications</h2>
+
+      <div class="publication">
+        <div class="project-title">Design and Implementation of AMI for Real-Time IoT Energy Monitoring System in Nigeria Power Distribution Network</div>
+        <p>Proposed a smart, AI-enhanced Advanced Metering Infrastructure for Nigeria’s grid, integrating IoT security and predictive analytics for accurate monitoring and billing.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Comprehensive Exploration of Smart Cities</div>
+        <p>Analyzed smart city technologies and their applications in sustainable urban development, focusing on telecommunications infrastructure and policy recommendations.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Design and Simulation of a Security and Surveillance UAV</div>
+        <p>Engineered and simulated a UAV system for real-time surveillance, integrating onboard sensors, remote communication, and AI-powered threat detection capabilities.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Internet of Things (IoT) Weather Monitoring System</div>
+        <p>Developed a cost-effective, remote IoT-based system for weather monitoring using embedded sensors and real-time data visualization for smart agriculture and environment tracking.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Design and Construction of an Automatic Change Over Switch</div>
+        <p>Designed and built an electromechanical system to automatically switch between main power and generator supply, ensuring seamless power continuity for households and industries.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">A Review of IoT Device Security</div>
+        <p>Under review for submission to a Q1 cybersecurity journal.</p>
+      </div>
+
+      <div class="publication">
+        <div class="project-title">Enabling Collaborative Reinforcement Learning with Human Feedback</div>
+        <p>Researching methods for safer and more interactive robot-human learning environments using feedback integration.</p>
       </div>
     </section>
 
