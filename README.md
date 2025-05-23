@@ -135,7 +135,7 @@
       <h2>About Me</h2>
       <p>
         I’m passionate about advancing sustainable energy systems through research, innovation, and practical engineering solutions. 
-        I am currently pursuing a PhD in Electrical Engineering at the University of New Orleans, focusing on small-signal stability, power system modeling, and renewable energy integration.
+        I am currently pursuing a PhD in Electrical Engineering at the University of New Orleans, focusing on power systems studies, power system modeling, and renewable energy integration.
       </p>
     </section>
 
@@ -145,7 +145,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" class="icon">
         Connect on LinkedIn
       </a>
-      <a href="https://github.com/olaoluwaadeleke" target="_blank" class="social-btn github">
+      <a href="https://https://github.com/Olajesu-rebirth" target="_blank" class="social-btn github">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" class="icon">
         View GitHub
       </a>
@@ -215,7 +215,6 @@
         <li>Power Systems Modeling & Stability (Small-signal, Voltage, and Transient)</li>
         <li>Renewable Energy Systems</li>
         <li>Internet of Things (IoT), & Smart Grid Security</li>
-        <li>Blockchain for Energy Trading</li>
         <li>MATLAB, Simulink, PSS/E</li>
         <li>Python, C++,Git</li>
         <li>Data Analysis</li>
